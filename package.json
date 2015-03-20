@@ -36,7 +36,7 @@
   "dependencies": {
     "sort-stream2": "^1.0.0",
     "stream-array": "^1.0.1",
-    "subindex": "git+https://github.com/ansamb-places/subindex.git#817d415279f55894b3cd627bc3ad65314ecc0e41",
+    "subindex": "git+https://github.com/ansamb-places/subindex.git#e0fd07f7bc363bab68d983e304a7a11d00c069cc",
     "through": "~2.3.4",
     "unique-stream": "^1.0.0"
   },
